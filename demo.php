@@ -71,7 +71,7 @@ require_once ('kho.php');
          Default:
          {
              $chon = readline("Moi ban nhap lai");
-             
+
 
          }
 

@@ -50,6 +50,8 @@
           {
               $chitiet->xuat();
               echo "-------------------------\n";
+            $this->tinhKhoiLuong()."\n";
+             $this->tinhGiaTien();
           }
       }
 
